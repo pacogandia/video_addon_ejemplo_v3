@@ -56,6 +56,12 @@ VIDEOS = {'Animals': [{'name': 'Crab',
                       'thumb': 'http://www.vidsplay.com/vids/pizza.jpg',
                       'video': 'http://www.vidsplay.com/vids/pizza.mp4',
                       'genre': 'Food'}
+                      
+                       ],
+            'Temporada1': [{'name': 'Temporada 1 - Lobato edition',
+                      'thumb': 'https://pbs.twimg.com/media/Ci0KHaJWkAAciRK.jpg',
+                      'video': 'http://mvod.lvlt.rtve.es/resources/TE_NGVA/mp4/8/9/1463651692698.mp4',
+                      'genre': 'Temporada1'},
                      ]}
 
 
