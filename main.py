@@ -58,7 +58,7 @@ VIDEOS = {'Animals': [{'name': 'Crab',
                       'genre': 'Food'}
                       
                        ],
-            'Temporada6': [{'name': 'Obra Maestra',
+            'Temporada 6': [{'name': 's06e72 - Obra Maestra',
                       'thumb': 'https://pbs.twimg.com/media/Ci0Uu13WEAEA7zu.jpg',
                       'video': 'http://vs3.coloriuris.net/4886b0aab5193d34f8375ef547c49e22.mp4',
                       'genre': 'Temporada6'},
