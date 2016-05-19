@@ -58,10 +58,10 @@ VIDEOS = {'Animals': [{'name': 'Crab',
                       'genre': 'Food'}
                       
                        ],
-            'Temporada1': [{'name': 'Temporada 1 - Lobato edition',
-                      'thumb': 'https://pbs.twimg.com/media/Ci0KHaJWkAAciRK.jpg',
-                      'video': 'http://mvod.lvlt.rtve.es/resources/TE_NGVA/mp4/8/9/1463651692698.mp4',
-                      'genre': 'Temporada1'},
+            'Temporada6': [{'name': 'Obra Maestra',
+                      'thumb': 'https://pbs.twimg.com/media/Ci0Uu13WEAEA7zu.jpg',
+                      'video': 'http://vs3.coloriuris.net/4886b0aab5193d34f8375ef547c49e22.mp4',
+                      'genre': 'Temporada6'},
                      ]}
 
 
