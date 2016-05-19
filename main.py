@@ -58,10 +58,15 @@ VIDEOS = {'Animals': [{'name': 'Crab',
                       'genre': 'Food'}
                       
                        ],
-            'Temporada 6': [{'name': 's06e72 - Obra Maestra',
+            'Temporada 6': [{'name': 'Capítulo 71: “Alta tensión” ',
+                      'thumb': 'https://pbs.twimg.com/media/Ci0Uu13WEAEA7zu.jpg',
+                      'video': 'http://vs3.coloriuris.net/3f2c7e15a5de91e6a1b9f2bc71f39b3f.mp4',
+                      'genre': 'Food'}, 
+                      {'name': 's06e72 - Obra Maestra',
                       'thumb': 'https://pbs.twimg.com/media/Ci0Uu13WEAEA7zu.jpg',
                       'video': 'http://vs3.coloriuris.net/4886b0aab5193d34f8375ef547c49e22.mp4',
-                      'genre': 'Temporada6'},
+                      'genre': 'Temporada6'}
+                    
                      ]}
 
 
